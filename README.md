@@ -6,4 +6,3 @@
 | day 001 | download file<br>file I/O |         |
 | day 002 | csv file handling         |         |
 | day 003 | xml file handling         |         |
-</center>
