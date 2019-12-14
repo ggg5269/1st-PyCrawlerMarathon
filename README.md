@@ -11,4 +11,10 @@
 | day 007 |                           |         |
 | day 008 | Static Webpage Crawling   |         |
 | day 009 | download images           |         |
-| day 010 | PyQuery/grab              |         |
+| day 010 | Packages: PyQuery/grab    |         |
+| day 011 | Regular Expression        |         |
+| day 012 | Ex. ETtoday               |         |
+| day 013 | Ex. PTT                   |         |
+| day 014 | Ex. Yahoo! movie          |         |
+| day 015 | Ex. Bank of Taiwan        |         |
+| day 016 |                           |         |
