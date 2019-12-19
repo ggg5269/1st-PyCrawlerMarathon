@@ -17,4 +17,8 @@
 | day 013 | Ex. PTT                   |         |
 | day 014 | Ex. Yahoo! movie          |         |
 | day 015 | Ex. Bank of Taiwan        |         |
-| day 016 |                           |         |
+| day 016 | Ex. Wiki                  |         |
+| day 017 |                           |         |
+| day 018 | about "headers"...        |         |
+| day 019 | selenium + beautifulsop   |         |
+| day 020 | API operation             |         |
