@@ -31,5 +31,11 @@
 | day 027 | Scrapy: XPath + Itempipeline |                              |
 | day 028 | Scrapy: API                  |                              |
 | day 029 | Scrapy: multi webpage        |                              |
-| day 030 |                              |                              |
-| day 031 |                              |                              |
+| day 030 | some challenges              |                              |
+| day 031 | **headers**                  |                              |
+| day 032 | **captcha**                  |                              |
+| day 033 | **login**                    |                              |
+| day 034 | **proxy IP**                 |                              |
+| day 035 | **multithread**              |                              |
+| day 036 | **asyncronized**             |                              |
+| day 037 | **scheduled**                |                              |
